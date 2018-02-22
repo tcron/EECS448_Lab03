@@ -1,0 +1,33 @@
+﻿body
+{
+    background-image: url(https://hdwallsource.com/img/2014/4/free-background-wallpaper-22918-23554-hd-wallpapers.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p
+{
+    color: white;
+    font-family: Georgia;
+    font-size: 12pt;
+}
+
+p.largeFont
+{
+    color: white;
+    font-family: Georgia;
+    font-size: 20pt;
+}
+
+a
+{
+    background-color: black;
+    color: blue;
+}
+
+a:hover
+{
+    background-color: blue;
+    color: black;
+}

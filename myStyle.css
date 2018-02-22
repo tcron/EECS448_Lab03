@@ -1,0 +1,23 @@
+﻿body
+{
+    background-image: url(http://enfusion-tv.com/2014/wp-content/uploads/2014/04/bgp.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p{
+    color: black;
+    font-family: Georgia;
+    font-size: 25pt;
+}
+
+a{
+    color: blue;
+    background-color:black;
+}
+
+a:hover{
+    color: black;
+    background-color:blue;
+}
